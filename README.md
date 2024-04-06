@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm sina</h1>
 <h3 align="center">Python programmer and backend developer with over 2 years of experience in developing complex applications using the Django framework</h3>
 
-- 💬 Ask me about **python, django, DRF, FastAPI, Channels**
+- 💬 Ask me about **Python, Django, DRF, FastAPI, Channels**
 
 - 📫 How to reach me **sinanasiri.py@gmail.com**
 
